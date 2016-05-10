@@ -22,7 +22,7 @@
 				<tr>
 				<!--Banner--><td align="CENTER" valign="TOP" width="1000" height="91" bgcolor="#000000"><img src="./images/layout/other/jdbanner_.gif" width="1000" height="91" border="0"></td>
 				</tr>
-				
+
 				<tr>
 				<!--body iframe-->
 					<td align="center" valign="middle" width="1000" height="" bgcolor="#000000">
@@ -32,7 +32,7 @@
 				<tr>
 					<td align="center" valign="middle" width="1000" height="5" bgcolor="#000000"></td>
 				</tr>
-				
+
 				<tr>
 				<!--main navigation-->
 					<td align="center" valign="bottom" width="1000" height="35" bgcolor="#000000">
@@ -53,7 +53,7 @@
 				</tr>
 
 			</table>
-			
+
 		</TD>
 		<TD ALIGN="left" VALIGN="bottom" WIDTH="" HEIGHT=""><SPAN CLASS="white"></SPAN></TD>
 	</TR>
@@ -62,7 +62,7 @@
 		<TD ALIGN="CENTER" VALIGN="TOP" WIDTH="1000" HEIGHT="50">
 			<table width="1000" height="" cellpadding="0" cellspacing="" bgcolor="#FFFFFF" border="0" bordercolor="">
 				<tr>
-					<td width="400" height="" align="left" valign="top"><span class="gray">All images © 2001-2006 James Doe <br />WebSite Created By Dimitrios Chantzis</span></td>
+					<td width="400" height="" align="left" valign="top"><span class="gray">All images &copy; 2001-2006 <a href="http://www.jamesdoe.com" class="signature" id="" title="">James Doe</a> <br />Site Created By <a href="http://www.dimitrioschantzis.com" class="signature" id="" title="">Dimitrios Chantzis</a></span></td>
 					<td width="200" height="" align="left" valign="top"></td>
 					<td width="400" height="" align="right" valign="top"><span class="gray">Site best viewed at 1024x768</span></td>
 				</tr>
